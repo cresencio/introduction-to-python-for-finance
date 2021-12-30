@@ -1,2 +1,3 @@
-# introduction-to-python-for-finance
+Finance and python stuff
+# Book details
  Yuxing Yan, June 2017 - Second edition, ISBN - 9781787125698
